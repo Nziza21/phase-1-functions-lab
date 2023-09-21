@@ -1,0 +1,200 @@
+{
+  "stats": {
+    "suites": 5,
+    "tests": 13,
+    "passes": 13,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-09-21T19:48:34.403Z",
+    "end": "2023-09-21T19:48:34.890Z",
+    "duration": 487
+  },
+  "tests": [
+    {
+      "title": "1) returns a distance in blocks",
+      "fullTitle": "index.js distanceFromHqInBlocks() 1) returns a distance in blocks",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) returns a distance in blocks",
+      "fullTitle": "index.js distanceFromHqInBlocks() 1) returns a distance in blocks",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) calculates distances below 42nd street",
+      "fullTitle": "index.js distanceFromHqInBlocks() 1) calculates distances below 42nd street",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) returns a distance in feet",
+      "fullTitle": "index.js distanceFromHqInFeet() 1) returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "2) returns a distance in feet",
+      "fullTitle": "index.js distanceFromHqInFeet() 2) returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "3) calculates distances below 42nd street",
+      "fullTitle": "index.js distanceFromHqInFeet() 3) calculates distances below 42nd street",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) returns the distance travelled in feet",
+      "fullTitle": "index.js distanceTravelledInFeet() 1) returns the distance travelled in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "2) returns a distance in feet",
+      "fullTitle": "index.js distanceTravelledInFeet() 2) returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "3) returns distance when destination is below start",
+      "fullTitle": "index.js distanceTravelledInFeet() 3) returns distance when destination is below start",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should return the correct fare when the distance is 2000 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should return the correct fare when the distance is 2000 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should not apply the 2 cents per foot charge when the distance is greater than 2000 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should not apply the 2 cents per foot charge when the distance is greater than 2000 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should charge 25 dollars for a distance over 2000 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should charge 25 dollars for a distance over 2000 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should not allow rides over 2500 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should not allow rides over 2500 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "1) returns a distance in blocks",
+      "fullTitle": "index.js distanceFromHqInBlocks() 1) returns a distance in blocks",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) returns a distance in blocks",
+      "fullTitle": "index.js distanceFromHqInBlocks() 1) returns a distance in blocks",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) calculates distances below 42nd street",
+      "fullTitle": "index.js distanceFromHqInBlocks() 1) calculates distances below 42nd street",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) returns a distance in feet",
+      "fullTitle": "index.js distanceFromHqInFeet() 1) returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "2) returns a distance in feet",
+      "fullTitle": "index.js distanceFromHqInFeet() 2) returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "3) calculates distances below 42nd street",
+      "fullTitle": "index.js distanceFromHqInFeet() 3) calculates distances below 42nd street",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "1) returns the distance travelled in feet",
+      "fullTitle": "index.js distanceTravelledInFeet() 1) returns the distance travelled in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "2) returns a distance in feet",
+      "fullTitle": "index.js distanceTravelledInFeet() 2) returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "3) returns distance when destination is below start",
+      "fullTitle": "index.js distanceTravelledInFeet() 3) returns distance when destination is below start",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should return the correct fare when the distance is 2000 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should return the correct fare when the distance is 2000 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should not apply the 2 cents per foot charge when the distance is greater than 2000 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should not apply the 2 cents per foot charge when the distance is greater than 2000 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should charge 25 dollars for a distance over 2000 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should charge 25 dollars for a distance over 2000 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should not allow rides over 2500 feet",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) should not allow rides over 2500 feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
